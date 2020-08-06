@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Final_SemanaTres</string>
+    <string name="message">Bienvenido a la Aplicación</string>
+    <string name="btnText">ENTRAR</string>
+</resources>
